@@ -1,0 +1,113 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sateAyam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasigoreng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Soto Ayam",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "soto.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Sate Ayam",
+      "harga": 16000,
+      "is_ready": true,
+      "gambar": "sateAyam.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Nasi Goreng",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "nasigoreng.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Soto Ayam",
+      "harga": 12000,
+      "is_ready": true,
+      "gambar": "soto.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Bakso",
+      "harga": 14000,
+      "is_ready": true,
+      "gambar": "bakso.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Jeruk Es/Panas",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "esjeruk.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Teh Es/Panas",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "esteh.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": [
+    {
+      "nama": "faysal",
+      "noMeja": "4",
+      "keranjangs": [
+        {
+          "jumlah_pemesanan": "1",
+          "products": {
+            "id": 3,
+            "kode": "K-03",
+            "nama": "Soto Ayam",
+            "harga": 12000,
+            "is_ready": true,
+            "gambar": "soto.jpg"
+          },
+          "id": 1
+        },
+        {
+          "jumlah_pemesanan": "2",
+          "catatan": "dingin",
+          "products": {
+            "id": 5,
+            "kode": "K-05",
+            "nama": "Jeruk Es/Panas",
+            "harga": 13000,
+            "is_ready": true,
+            "gambar": "esjeruk.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
