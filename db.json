@@ -23,6 +23,30 @@
       "harga": 12000,
       "is_ready": true,
       "gambar": "soto.jpg"
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "Es Oyen",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "esoyen.jpg"
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Es Doger",
+      "harga": 7500,
+      "is_ready": true,
+      "gambar": "esdoger.jpg"
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Jus (Alpukat, Jeruk, Mangga, Strawberry, Melon, Apel, Tomat, dll)",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "jus.jpg"
     }
   ],
   "products": [
@@ -73,41 +97,88 @@
       "harga": 10000,
       "is_ready": true,
       "gambar": "esteh.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Ayam Goreng",
+      "harga": 15000,
+      "is_ready": true,
+      "gambar": "ayamgoreng.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Nasi Putih",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "nasiputih.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Nasi Kuning",
+      "harga": 7000,
+      "is_ready": true,
+      "gambar": "nasikuning.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-10",
+      "nama": "Nasi Uduk",
+      "harga": 8000,
+      "is_ready": true,
+      "gambar": "nasiuduk.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-11",
+      "nama": "Nasi Kebuli",
+      "harga": 20000,
+      "is_ready": true,
+      "gambar": "nasikebuli.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-12",
+      "nama": "Nasi Bakar",
+      "harga": 13000,
+      "is_ready": true,
+      "gambar": "nasibakar.jpg"
+    },
+    {
+      "id": 13,
+      "kode": "K-13",
+      "nama": "Ayam Geprek",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "ayamgeprek.jpg"
+    },
+    {
+      "id": 14,
+      "kode": "K-14",
+      "nama": "Jus (Alpukat, Jeruk, Mangga, Strawberry, Melon, Apel, Tomat, dll)",
+      "harga": 10000,
+      "is_ready": true,
+      "gambar": "jus.jpg"
+    },
+    {
+      "id": 15,
+      "kode": "K-15",
+      "nama": "Es Oyen",
+      "harga": 5000,
+      "is_ready": true,
+      "gambar": "esoyen.jpg"
+    },
+    {
+      "id": 16,
+      "kode": "K-16",
+      "nama": "Es Doger",
+      "harga": 7500,
+      "is_ready": true,
+      "gambar": "esdoger.jpg"
     }
   ],
   "keranjangs": [],
-  "pesanans": [
-    {
-      "nama": "faysal",
-      "noMeja": "4",
-      "keranjangs": [
-        {
-          "jumlah_pemesanan": "1",
-          "products": {
-            "id": 3,
-            "kode": "K-03",
-            "nama": "Soto Ayam",
-            "harga": 12000,
-            "is_ready": true,
-            "gambar": "soto.jpg"
-          },
-          "id": 1
-        },
-        {
-          "jumlah_pemesanan": "2",
-          "catatan": "dingin",
-          "products": {
-            "id": 5,
-            "kode": "K-05",
-            "nama": "Jeruk Es/Panas",
-            "harga": 13000,
-            "is_ready": true,
-            "gambar": "esjeruk.jpg"
-          },
-          "id": 2
-        }
-      ],
-      "id": 1
-    }
-  ]
+  "pesanans": []
 }
